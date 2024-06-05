@@ -17,3 +17,5 @@ This repository contains essential materials for learning Flutter
 
 ### [2. What platform specific components does Flutter extends?](ui_components.md)
 
+### [3. Widget life cycle in Flutter?](ui_components.md)
+
