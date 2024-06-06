@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/Uuttssaavv/learning_flutter.svg?style=flat-square)](http://hits.dwyl.com/Uuttssaavv/learning_flutter)
+[![HitCount](https://hits.dwyl.com/Uuttssaavv/learning_flutter.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Uuttssaavv/learning_flutter)
 ## Hi I'm Utsav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I compiled the list of essential materials that makes learning Flutter easier and more conveniently.
