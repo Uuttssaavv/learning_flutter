@@ -18,7 +18,9 @@ This repository contains essential materials for learning Flutter
 
 ### [2. What platform specific components does Flutter extends?](ui_components.md)
 
-### [3. Stateless vs Stateful Widgets?](stateless_vs_stateful_widgets.md)
+### [3. Stateless vs Stateful Widgets](stateless_vs_stateful_widgets.md)
 
-### [4. Widget life cycle in Flutter?](widget_lifecycle.md)
+### [4. Widget life cycle in Flutter](widget_lifecycle.md)
+
+### [5. Basics of Navigation in Flutter](navigation_basics.md)
 
