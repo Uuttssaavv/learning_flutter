@@ -25,4 +25,5 @@ This repository contains essential materials for learning Flutter
 ### [5. Basics of Navigation in Flutter](navigation_basics.md)
 
 ### [6. Design Patterns in Dart](https://github.com/ziadasem/Design-patterns-in-dart)
+### [7. Keys in Flutter](keys.md)
 
